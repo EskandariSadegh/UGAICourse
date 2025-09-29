@@ -43,7 +43,7 @@ Welcome to **AI Course**!. This course provides a comprehensive introduction to 
 ## 📧 Contact Us
 
 Have questions? Reach out!  
-- **Email**: [course@example.com](mailto:course@example.com)  
+- **Email**: [esk.sadegh@gmail.com](mailto:esk.sadegh@gmail.com)  
 - **Forum**: [Link to discussion platform]  
 - **Office Hours**: See staff and TA sections above  
 
