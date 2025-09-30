@@ -44,7 +44,7 @@ Welcome to **AI Course**!. This course provides a comprehensive introduction to 
 
 Have questions? Reach out!  
 - **Email**: [esk.sadegh@gmail.com](mailto:esk.sadegh@gmail.com)  
-- **Forum**: [Link to discussion platform]  
+- **Forum**: [Telegram](https://t.me/+kkWK83HP2PdmMjY0)] 
 - **Office Hours**: See staff and TA sections above  
 
 **Let's make this semester amazing!**
