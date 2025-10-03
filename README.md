@@ -29,9 +29,9 @@ Welcome to **AI Course**!. This course provides a comprehensive introduction to 
 ---
 
 ## 🗓️ Schedule
-**Week 1**, [Sadegh Eskandari][Intro to AI Definitions, Intro to Agents and Environments][Slides [pdf](./Slides/Week1/AI_Lecture1(Introduction).pdf)[ppt](./Slides/Week1/AI_Lecture1(Introduction).pptx))]
+**Week 1**, [Sadegh Eskandari][Intro to AI Definitions, Intro to Agents and Environments][Slides [pdf](./Slides/Week1/AI_Lecture1.pdf)[ppt](./Slides/Week1/AI_Lecture1.pptx))]
 
-**Week 2**, [Sadegh Eskandari][Plannning, Search Problems, General Search, Search Trees, Blind Search Strategies][Slieds [pdf](./Slides/Week2/AI_Lecture2(Search-Part1)).pdf)[ppt](./Slides/Week2/AI_Lecture2(Search-Part1)).pptx)]
+**Week 2**, [Sadegh Eskandari][Plannning, Search Problems, Blind Search Strategies][Slieds [pdf](./Slides/Week2/AI_Lecture2.pdf)[ppt](./Slides/Week2/AI_Lecture2.pptx)]
 
 
 ---
