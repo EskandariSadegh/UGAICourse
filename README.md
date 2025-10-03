@@ -25,7 +25,7 @@ Welcome to **AI Course**!. This course provides a comprehensive introduction to 
 
 ---
 ### 📚 Materials
-- **Textbook**: ["Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig](https://aima.cs.berkeley.edu/)
+- **Textbook**: ["Artificial Intelligence: A Modern Approach"](https://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig
 ---
 
 ## 🗓️ Schedule
