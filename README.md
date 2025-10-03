@@ -1,4 +1,4 @@
-# 📚 [Artificial Intelligence (14041)]
+ # 📚 [Artificial Intelligence (14041)]
 
 
 ---
@@ -10,8 +10,7 @@ Welcome to **AI Course**!. This course provides a comprehensive introduction to 
 ✨ **Quick Info**    
 - **Semester**: [e.g., Fall 2025]  
 - **Institution**: [Department of Computer Science, University of Guilan, Iran]  
-- **Prerequisites**: [Probability 1]
-- **Syllabus**: [Download file]
+- **Prerequisites**: [Probability 1, Python/Java Programming]
 ---
 
 
@@ -26,16 +25,13 @@ Welcome to **AI Course**!. This course provides a comprehensive introduction to 
 
 ---
 ### 📚 Materials
-- **Textbook**: [e.g., "Eloquent JavaScript by Marijn Haverbeke"]  
-- **Software**: [e.g., VS Code, Node.js]  
-- **Resources**: [e.g., MDN Web Docs, W3Schools]
-
+- **Textbook**: ["Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig](https://aima.cs.berkeley.edu/)
 ---
 
 ## 🗓️ Schedule
-**Week 1**, [Instructor][Topics][Materials][Assignments]
+**Week 1**, [Sadegh Eskandari][Intro to AI Definitions, Intro to Agents and Environments][Slides (pdf)(ppt)]
 
-**Week 2**, [Instructor][Topics][Materials][Assignments]
+**Week 2**, [Sadegh Eskandari][Plannning, Search Problems, General Search, Search Trees, Blind Search Strategies][Slieds (pdf)(ppt)]
 
 
 ---
